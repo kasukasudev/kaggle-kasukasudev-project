@@ -1,0 +1,32 @@
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data Science artifacts
+data/
+datasets/
+inputs/
+outputs/
+models/
+submissions/
+logs/
+tmp/
+
+# Kaggle
+.kaggle/
+
+# Build / misc
+dist/
+build/
+*.log
