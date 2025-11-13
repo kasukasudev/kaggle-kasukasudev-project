@@ -2,3 +2,4 @@
 - Notebooks: notebooks/
 - Models: models/
 - Submissions: submissions/
+- Datasets: datasets/
